@@ -13,7 +13,7 @@ general_logger = logging.getLogger("bot")
 
 # Bot token and webhook URL (replace with your own values)
 BOT_TOKEN = '7821821194:AAGCY_8otq9H05SLoix2Rs75BdT2T6LoAAk'
-WEBHOOK_URL = 'https://hook.eu2.make.com/6un66fo7c57fryq79xqpjenq1t47qh4g'
+WEBHOOK_URL = 'https://hook.us2.make.com/ga8m169h9xkgxo3rcns84mr33xn5t8w2'
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Display options to the user
